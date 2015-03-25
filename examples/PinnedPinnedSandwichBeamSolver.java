@@ -1,5 +1,7 @@
 import java.util.List;
+import java.awt.GraphicsEnvironment;
 import java.awt.RenderingHints;
+import java.awt.image.RenderedImage;
 import java.io.File;
 import java.io.IOException;
 
@@ -8,7 +10,10 @@ import java.io.IOException;
 
 
 
+import java.io.PrintWriter;
 import java.util.ArrayList;
+
+import javax.imageio.ImageIO;
 
 import org.jfree.chart.ChartPanel;
 import org.jfree.chart.JFreeChart;
@@ -29,7 +34,7 @@ public class PinnedPinnedSandwichBeamSolver {
 	final static Class<PinnedPinnedSandwichBeam> PROBLEM_CLASS = PinnedPinnedSandwichBeam.class; 
 	final static String ALGORITHM = "NSGAII";
 	final static int MAX_EVALUATIONS = 10000;
-	final static int NUMBER_RUNS = 30;
+	final static int NUMBER_RUNS = 3;
 	final static String OBJECTIVE1 = "Fundamental Frequency";
 	final static String OBJECTIVE2 = "Total cost";
 
@@ -68,6 +73,9 @@ public class PinnedPinnedSandwichBeamSolver {
 		//double hvi = hv.evaluate(result);	
 		//System.out.println(hvi);*/
 		
+		String dirName = "Output/";
+		new File(dirName).mkdirs();
+		
 		Analyzer analyzer = new Analyzer()
 		.withProblemClass(PROBLEM_CLASS)
 		.includeAllMetrics()
@@ -80,19 +88,45 @@ public class PinnedPinnedSandwichBeamSolver {
 		List<NondominatedPopulation> results = new ArrayList<NondominatedPopulation>();
 		results = executor.withAlgorithm(ALGORITHM).runSeeds(NUMBER_RUNS);
 		
+		File analyzerFile = new File(dirName + "Analyzer_" + "ALGORITHM" + ".txt");
+		
 		analyzer.addAll(ALGORITHM, results);
 		//analyzer.printAnalysis();
 		analyzer.showIndividualValues().printAnalysis();
+		analyzer.showIndividualValues().saveAnalysis(analyzerFile);
 		
+		PrintWriter writer = new PrintWriter(dirName + ALGORITHM + "_" + PROBLEM + ".txt", "UTF-8");
+		writer.println("Bruno Iochins Grisci");
+		writer.println("Variable values for " + String.valueOf(NUMBER_RUNS) + " runs of " + ALGORITHM + " for " + PROBLEM);
+		
+		int r = 0;
 		for (NondominatedPopulation result : results) {
 			int COUNT = result.size();
 			float [][] data = new float[2][COUNT];
+			
+			writer.println(" ");
+			writer.println("RUN #" + String.valueOf(r));
+			
 			int i = 0;		
-			System.out.format("Objective1  Objective2%n");
+			//System.out.format("Objective1  Objective2%n");
 			for (Solution solution : result) {
-				System.out.format("%.4f      %.4f%n",
+				/*System.out.format("%.4f      %.4f%n",
 						solution.getObjective(0),
-						solution.getObjective(1));
+						solution.getObjective(1));*/
+				
+				writer.println("	---");
+				writer.println("	Solution #" + String.valueOf(i));
+				writer.println("	Objective 1 (fundamental frequency): " + String.valueOf(solution.getObjective(0)));
+				writer.println("	Objective 2 (total cost): " + String.valueOf(solution.getObjective(1)));
+				
+				String variables = "	Variables: ";
+				int numberOfVariables = solution.getNumberOfVariables();
+				for (int v = 0; v < numberOfVariables; v++){
+					variables = variables + solution.getVariable(v).toString() + " | ";
+				}
+				writer.println("	Variables labels: L | b | d1 | d2 | d3");
+				writer.println(variables);
+				
 				data[0][i] = (float) solution.getObjective(0);
 				data[1][i] = (float) solution.getObjective(1);
 				i++;
@@ -102,9 +136,21 @@ public class PinnedPinnedSandwichBeamSolver {
 			plotChart.pack();
 			RefineryUtilities.centerFrameOnScreen(plotChart);
 			plotChart.setVisible(true);
+			plotChart.setEnabled(true);
+			
+			if (!GraphicsEnvironment.isHeadless() && plotChart.isDisplayable()) {
+				File plotFile = new File(dirName + ALGORITHM + " " + PROBLEM + "_" + String.valueOf(r) + ".png");
+				ImageIO.write((RenderedImage) plotChart.createImage(plotChart.getWidth(), plotChart.getHeight()), "png", plotFile);
+			}
+			else {
+				System.out.println("Failed to save plot.");
+			}
+			
+			r++;
 		}
+		
+		writer.close();
 		
 	}
 
 }
-
