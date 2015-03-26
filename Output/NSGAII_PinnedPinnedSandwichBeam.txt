@@ -1,0 +1,1808 @@
+Bruno Iochins Grisci
+Variable values for 3 runs of NSGAII for PinnedPinnedSandwichBeam
+ 
+RUN #0
+	---
+	Solution #0
+	Objective 1 (fundamental frequency): 203.86781291279993
+	Objective 2 (total cost): 364.0077078951925
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.002366587557346 | 0.30015097527283374 | 0.1505045440539075 | 0.16058118206517208 | 0.3000789731620186 | 
+	---
+	Solution #1
+	Objective 1 (fundamental frequency): 43.997026971954604
+	Objective 2 (total cost): 1407.6905840154482
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.98814831407218 | 0.3000008588812179 | 0.04933762224687831 | 0.2873285239782246 | 0.30000701157568066 | 
+	---
+	Solution #2
+	Objective 1 (fundamental frequency): 45.30520209795162
+	Objective 2 (total cost): 1345.0527017864213
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.986192661229649 | 0.30000613646429164 | 0.06665523520215796 | 0.2873285239782246 | 0.3000064229218428 | 
+	---
+	Solution #3
+	Objective 1 (fundamental frequency): 55.65073181499371
+	Objective 2 (total cost): 694.8498442085549
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999882002406969 | 0.30000005953797576 | 0.19591186809912695 | 0.21252178827675908 | 0.3002052744360138 | 
+	---
+	Solution #4
+	Objective 1 (fundamental frequency): 68.96045589900108
+	Objective 2 (total cost): 607.2541538030923
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.402098509940076 | 0.3000174493988943 | 0.20198105042925574 | 0.21325605499981223 | 0.3000527871674543 | 
+	---
+	Solution #5
+	Objective 1 (fundamental frequency): 63.58263667725646
+	Objective 2 (total cost): 623.4081112699462
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.697834198570405 | 0.30000715593037935 | 0.21815893319503726 | 0.22927735766450552 | 0.30001599284954733 | 
+	---
+	Solution #6
+	Objective 1 (fundamental frequency): 50.04994726427239
+	Objective 2 (total cost): 1131.0654313301432
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.986391167273752 | 0.30000607500760396 | 0.1262174770418876 | 0.28725335936555835 | 0.3000410321842438 | 
+	---
+	Solution #7
+	Objective 1 (fundamental frequency): 54.590497317353794
+	Objective 2 (total cost): 851.9755716041689
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999991766365375 | 0.3000076282460943 | 0.1620926335830988 | 0.226775034228633 | 0.30000537233150076 | 
+	---
+	Solution #8
+	Objective 1 (fundamental frequency): 49.379722436424046
+	Objective 2 (total cost): 1159.0810509566047
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999734458314876 | 0.3000147129502286 | 0.11836665932285116 | 0.28604967862818687 | 0.30012162822963584 | 
+	---
+	Solution #9
+	Objective 1 (fundamental frequency): 82.20782781626096
+	Objective 2 (total cost): 562.764463130768
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.944099859552194 | 0.30001581725769194 | 0.19967435255343208 | 0.213309055558688 | 0.3000713993226833 | 
+	---
+	Solution #10
+	Objective 1 (fundamental frequency): 48.986179029520564
+	Objective 2 (total cost): 1187.4759161236132
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.981061401357543 | 0.3001646779208554 | 0.1106172346377656 | 0.2871323352582197 | 0.3004274272572018 | 
+	---
+	Solution #11
+	Objective 1 (fundamental frequency): 55.017063765258484
+	Objective 2 (total cost): 802.1756469306816
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.988311846190621 | 0.30001881753182597 | 0.17049464519285498 | 0.21961057798626218 | 0.30001840634186483 | 
+	---
+	Solution #12
+	Objective 1 (fundamental frequency): 70.4276570185699
+	Objective 2 (total cost): 601.1136976703149
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.345713006469194 | 0.30007672855285755 | 0.20198105042925574 | 0.21325605499981223 | 0.3000836258106605 | 
+	---
+	Solution #13
+	Objective 1 (fundamental frequency): 114.52010631473885
+	Objective 2 (total cost): 482.06516695321574
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.080747829283909 | 0.300061441613907 | 0.1703571140924863 | 0.18148169607052267 | 0.30020696199968533 | 
+	---
+	Solution #14
+	Objective 1 (fundamental frequency): 50.78404711846077
+	Objective 2 (total cost): 1103.8669970698684
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.99681723208922 | 0.30010389629885226 | 0.13251238474473617 | 0.28445411250819264 | 0.30010094630463385 | 
+	---
+	Solution #15
+	Objective 1 (fundamental frequency): 54.932563373497985
+	Objective 2 (total cost): 838.0099509116665
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.984031396452183 | 0.3000078831593976 | 0.16400392421436133 | 0.22483984551715125 | 0.3000145306994545 | 
+	---
+	Solution #16
+	Objective 1 (fundamental frequency): 55.613004597641336
+	Objective 2 (total cost): 739.4762728287313
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999959768199827 | 0.30001274868313255 | 0.18801308934301622 | 0.21915253673187898 | 0.30001129755965217 | 
+	---
+	Solution #17
+	Objective 1 (fundamental frequency): 47.677051889040946
+	Objective 2 (total cost): 1236.3488300355389
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999843805986348 | 0.30008569513694094 | 0.09800846865240517 | 0.2871320375010093 | 0.30044642243777603 | 
+	---
+	Solution #18
+	Objective 1 (fundamental frequency): 56.057061109911686
+	Objective 2 (total cost): 673.7721908350131
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.991866061094397 | 0.30007672855285755 | 0.20198105042925574 | 0.21325605499981223 | 0.3000836258115875 | 
+	---
+	Solution #19
+	Objective 1 (fundamental frequency): 59.515365545939595
+	Objective 2 (total cost): 651.8603454296122
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.839428580030462 | 0.30007487675904543 | 0.2070379859441377 | 0.21862483115367132 | 0.3000069840890861 | 
+	---
+	Solution #20
+	Objective 1 (fundamental frequency): 53.594998439308405
+	Objective 2 (total cost): 982.8166438763291
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.977608619912679 | 0.30000499913207773 | 0.13553307361343161 | 0.2422006333306768 | 0.3000191609607175 | 
+	---
+	Solution #21
+	Objective 1 (fundamental frequency): 117.5869848096402
+	Objective 2 (total cost): 475.74102265830277
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.000522986003191 | 0.30029307980083014 | 0.1636818465800959 | 0.1737256451299439 | 0.3000999607525258 | 
+	---
+	Solution #22
+	Objective 1 (fundamental frequency): 144.8839096025346
+	Objective 2 (total cost): 429.01423078498595
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.599535097069883 | 0.30000821967593133 | 0.16214608149841228 | 0.17244726387557696 | 0.3000886331278949 | 
+	---
+	Solution #23
+	Objective 1 (fundamental frequency): 173.53907363933004
+	Objective 2 (total cost): 392.9281053882227
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.291282951361334 | 0.3000095321580039 | 0.16245007220975805 | 0.17313119622224735 | 0.3002825588456912 | 
+	---
+	Solution #24
+	Objective 1 (fundamental frequency): 54.339135986996055
+	Objective 2 (total cost): 897.9180326074172
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.984078919160653 | 0.3000100070341646 | 0.15106757659746137 | 0.23018984380225105 | 0.3000145306994545 | 
+	---
+	Solution #25
+	Objective 1 (fundamental frequency): 176.7537147275298
+	Objective 2 (total cost): 388.7022649974232
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.2603239469280356 | 0.30001720587004066 | 0.16252122788226878 | 0.1731319138340666 | 0.3000259835197769 | 
+	---
+	Solution #26
+	Objective 1 (fundamental frequency): 74.29696657967395
+	Objective 2 (total cost): 586.8664875965927
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.207184964801139 | 0.3001044487349788 | 0.2021688466516597 | 0.21408033142620783 | 0.3001074137632802 | 
+	---
+	Solution #27
+	Objective 1 (fundamental frequency): 53.85964764109296
+	Objective 2 (total cost): 937.3746434887121
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.990699143338026 | 0.3000149306588319 | 0.14372727695421555 | 0.23491538409865625 | 0.30007453850986954 | 
+	---
+	Solution #28
+	Objective 1 (fundamental frequency): 101.0014268367716
+	Objective 2 (total cost): 513.083133707348
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.348790231827427 | 0.30100649771784427 | 0.1717019523424754 | 0.18220836893555847 | 0.30017105362458896 | 
+	---
+	Solution #29
+	Objective 1 (fundamental frequency): 77.5179887173331
+	Objective 2 (total cost): 569.6546104651661
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.0976092671173605 | 0.3000119988562002 | 0.20318606541853396 | 0.21340917503495774 | 0.300051424355281 | 
+	---
+	Solution #30
+	Objective 1 (fundamental frequency): 170.3376855735781
+	Objective 2 (total cost): 396.11695299216984
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.321259681303205 | 0.3000055296660399 | 0.1624705287980753 | 0.1731301967448527 | 0.30006774792398355 | 
+	---
+	Solution #31
+	Objective 1 (fundamental frequency): 52.728049128982896
+	Objective 2 (total cost): 1038.4034243974857
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.995536885615654 | 0.3000101077765802 | 0.14272022749155622 | 0.27327267589721427 | 0.3000996814625791 | 
+	---
+	Solution #32
+	Objective 1 (fundamental frequency): 57.69088851669378
+	Objective 2 (total cost): 657.0155566760377
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.984075762048732 | 0.3000048993121513 | 0.21815893319503726 | 0.23019019217263403 | 0.30001599284954733 | 
+	---
+	Solution #33
+	Objective 1 (fundamental frequency): 185.25704514321777
+	Objective 2 (total cost): 382.3270213260477
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.149532660657491 | 0.3000032620814203 | 0.15021255375348389 | 0.16058118206517208 | 0.30015371514906475 | 
+	---
+	Solution #34
+	Objective 1 (fundamental frequency): 45.01271177077214
+	Objective 2 (total cost): 1382.875458639436
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.971082240093469 | 0.30008281971330264 | 0.05331234877036828 | 0.28445411250819264 | 0.3001004391383242 | 
+	---
+	Solution #35
+	Objective 1 (fundamental frequency): 198.2838385797386
+	Objective 2 (total cost): 369.71653109380395
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.0443140047696624 | 0.30013578490926063 | 0.15021255375348389 | 0.16058118206517208 | 0.3001529843810789 | 
+	---
+	Solution #36
+	Objective 1 (fundamental frequency): 200.86146295028738
+	Objective 2 (total cost): 367.72159427633534
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.0239282303472494 | 0.30001259674236375 | 0.14978701945164266 | 0.1605811767527352 | 0.30005615412802095 | 
+	---
+	Solution #37
+	Objective 1 (fundamental frequency): 158.32590051078176
+	Objective 2 (total cost): 409.8047331675375
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.447391080529936 | 0.30012049492435294 | 0.16358302300631986 | 0.1736092820554747 | 0.3001251310740615 | 
+	---
+	Solution #38
+	Objective 1 (fundamental frequency): 120.7851175464604
+	Objective 2 (total cost): 472.60917232401545
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.947892773353377 | 0.30022529470753967 | 0.16252122788226878 | 0.1731343254886189 | 0.3008713354997366 | 
+	---
+	Solution #39
+	Objective 1 (fundamental frequency): 47.40697086759425
+	Objective 2 (total cost): 1260.3117013998162
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.984099599055262 | 0.3000717666717695 | 0.08829242273586768 | 0.28460652828685434 | 0.3000008796197062 | 
+	---
+	Solution #40
+	Objective 1 (fundamental frequency): 55.26868908343298
+	Objective 2 (total cost): 772.1133288357782
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.994050158177518 | 0.30000465451304253 | 0.17843794530501192 | 0.21865387111730358 | 0.300082154287843 | 
+	---
+	Solution #41
+	Objective 1 (fundamental frequency): 54.08101006103339
+	Objective 2 (total cost): 900.0145756164559
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.998301463405658 | 0.3000026875139717 | 0.15106757659746137 | 0.23018984380225105 | 0.3000091100225383 | 
+	---
+	Solution #42
+	Objective 1 (fundamental frequency): 187.54701041063504
+	Objective 2 (total cost): 379.3318704212834
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.1300712304633755 | 0.30009143757501244 | 0.1505045440539075 | 0.1605811769508799 | 0.3000234139504873 | 
+	---
+	Solution #43
+	Objective 1 (fundamental frequency): 194.9843399576637
+	Objective 2 (total cost): 372.5026497540197
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.0704586597965235 | 0.3000173270552342 | 0.1505045440539075 | 0.16095483423947557 | 0.30002694266321084 | 
+	---
+	Solution #44
+	Objective 1 (fundamental frequency): 62.65859717837628
+	Objective 2 (total cost): 638.7369665876886
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.6966361548238975 | 0.3000760046706683 | 0.2074727512202731 | 0.22042945366474365 | 0.3000003501247112 | 
+	---
+	Solution #45
+	Objective 1 (fundamental frequency): 93.27354406950649
+	Objective 2 (total cost): 524.4032693479561
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.6512656467620515 | 0.30022523470777623 | 0.20247326367556343 | 0.21339785145442408 | 0.3010760154424008 | 
+	---
+	Solution #46
+	Objective 1 (fundamental frequency): 151.72988612709682
+	Objective 2 (total cost): 420.20231454767264
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.519875091618202 | 0.3000095321580039 | 0.16245493013946644 | 0.17313119622224735 | 0.30027907585080366 | 
+	---
+	Solution #47
+	Objective 1 (fundamental frequency): 190.60961123906603
+	Objective 2 (total cost): 376.9465368262346
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.1061009906854937 | 0.3000950373069805 | 0.1505045440539075 | 0.16058126631446867 | 0.30036871116619596 | 
+	---
+	Solution #48
+	Objective 1 (fundamental frequency): 97.11484814809485
+	Objective 2 (total cost): 523.698386992712
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.401359881559321 | 0.30030550233902453 | 0.16351066339793888 | 0.17371350574300834 | 0.30002347394741025 | 
+	---
+	Solution #49
+	Objective 1 (fundamental frequency): 181.47345123531565
+	Objective 2 (total cost): 383.22165081219794
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.2174180824282894 | 0.3000005613864598 | 0.16250676714551715 | 0.17267089491655607 | 0.3001885462835355 | 
+	---
+	Solution #50
+	Objective 1 (fundamental frequency): 53.86754444392542
+	Objective 2 (total cost): 936.9049306871023
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.990699143338026 | 0.3000149306588319 | 0.14385794879914918 | 0.23491538409865625 | 0.30007453850986954 | 
+	---
+	Solution #51
+	Objective 1 (fundamental frequency): 136.9438767906495
+	Objective 2 (total cost): 442.35824340666034
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.704866908066225 | 0.30022529470753967 | 0.16252122788226878 | 0.1731343254886189 | 0.3002207232904502 | 
+	---
+	Solution #52
+	Objective 1 (fundamental frequency): 53.28241135105317
+	Objective 2 (total cost): 1011.8762401142681
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.998834501900229 | 0.30007800127463036 | 0.1407232228229385 | 0.2594386366418823 | 0.300218054836941 | 
+	---
+	Solution #53
+	Objective 1 (fundamental frequency): 140.4413451646177
+	Objective 2 (total cost): 435.59291495592436
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.6556927385186917 | 0.30002335232859745 | 0.16214608149841228 | 0.17244726387557696 | 0.30001085037686676 | 
+	---
+	Solution #54
+	Objective 1 (fundamental frequency): 45.579648285709325
+	Objective 2 (total cost): 1314.2673439291839
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.9989751365611435 | 0.30009135989848196 | 0.07772876584363392 | 0.28963843521288957 | 0.3000091628688908 | 
+	---
+	Solution #55
+	Objective 1 (fundamental frequency): 123.38861478442988
+	Objective 2 (total cost): 462.65381475452364
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.9317409824936895 | 0.3000778951077415 | 0.17107016703616684 | 0.18159920171734037 | 0.3000237056841314 | 
+	---
+	Solution #56
+	Objective 1 (fundamental frequency): 167.3701180203008
+	Objective 2 (total cost): 399.51261783863043
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.351955009391395 | 0.3000018837424269 | 0.16283887949602235 | 0.17326029660012074 | 0.3002524923176462 | 
+	---
+	Solution #57
+	Objective 1 (fundamental frequency): 179.7955322002931
+	Objective 2 (total cost): 385.5950981665551
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.232704911742385 | 0.3000055296660399 | 0.1624507020392264 | 0.17313119622224735 | 0.30006774792398355 | 
+	---
+	Solution #58
+	Objective 1 (fundamental frequency): 161.6454608738208
+	Objective 2 (total cost): 407.88740207655087
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.4120525886965334 | 0.30011686351370886 | 0.16251827604946978 | 0.17283895553962053 | 0.30086494183764356 | 
+	---
+	Solution #59
+	Objective 1 (fundamental frequency): 98.37244366809625
+	Objective 2 (total cost): 518.1449532243226
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.404023390848441 | 0.30006683819994334 | 0.1711421516416929 | 0.18148034287394235 | 0.3001874474247942 | 
+	---
+	Solution #60
+	Objective 1 (fundamental frequency): 130.96288409177083
+	Objective 2 (total cost): 452.9893462252099
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.7893345251140786 | 0.3000080746354526 | 0.16214608149841228 | 0.17242385874976074 | 0.3008534498660993 | 
+	---
+	Solution #61
+	Objective 1 (fundamental frequency): 150.11484587382398
+	Objective 2 (total cost): 422.0314818304695
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.538144171480702 | 0.3000631265799696 | 0.16252122788226878 | 0.1731319138340666 | 0.30010979983800323 | 
+	---
+	Solution #62
+	Objective 1 (fundamental frequency): 155.2593503608746
+	Objective 2 (total cost): 415.72053446121953
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.4700124217194426 | 0.30000301114309535 | 0.15963907669267777 | 0.17042957704879685 | 0.30001162691274086 | 
+	---
+	Solution #63
+	Objective 1 (fundamental frequency): 55.280958838853955
+	Objective 2 (total cost): 744.2103261337297
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.996372361063872 | 0.3000342568307876 | 0.18345829479414527 | 0.21459692306638223 | 0.300083730975039 | 
+	---
+	Solution #64
+	Objective 1 (fundamental frequency): 90.09905549681199
+	Objective 2 (total cost): 532.2280435981775
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.725842805277039 | 0.30001836399726745 | 0.20168366837487361 | 0.213309055558688 | 0.3000713993226833 | 
+	---
+	Solution #65
+	Objective 1 (fundamental frequency): 165.50753644487924
+	Objective 2 (total cost): 401.21642153156097
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.3683814491503377 | 0.3001511236340862 | 0.1624700737506226 | 0.17265468788418248 | 0.30004089320668 | 
+	---
+	Solution #66
+	Objective 1 (fundamental frequency): 107.1525570660829
+	Objective 2 (total cost): 499.2026117055333
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.187299196089106 | 0.300030105141632 | 0.16252122788226878 | 0.1731343254886189 | 0.30000549687084116 | 
+	---
+	Solution #67
+	Objective 1 (fundamental frequency): 192.85497289074877
+	Objective 2 (total cost): 374.41796651881435
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.0871727279501724 | 0.3001658961509138 | 0.1505045440539075 | 0.16058118206517208 | 0.3001529843810789 | 
+	---
+	Solution #68
+	Objective 1 (fundamental frequency): 111.0361720137016
+	Objective 2 (total cost): 488.1387338469438
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.145196050864014 | 0.3001197497716461 | 0.17101391695569787 | 0.18148169607052267 | 0.3002065803546665 | 
+	---
+	Solution #69
+	Objective 1 (fundamental frequency): 103.79133609317364
+	Objective 2 (total cost): 506.3595416793976
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.286474185177357 | 0.30005613231651274 | 0.1703571140924863 | 0.18148169607052267 | 0.30020723219971024 | 
+	---
+	Solution #70
+	Objective 1 (fundamental frequency): 108.47526128189409
+	Objective 2 (total cost): 496.0206534122629
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.1599754632199675 | 0.30013603238940656 | 0.16214608149841228 | 0.17244726387557696 | 0.300087902359909 | 
+	---
+	Solution #71
+	Objective 1 (fundamental frequency): 133.3348038347465
+	Objective 2 (total cost): 446.3826273882818
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.756815017777436 | 0.300051467636338 | 0.1636818465800959 | 0.1737256451299439 | 0.3000903920785313 | 
+	---
+	Solution #72
+	Objective 1 (fundamental frequency): 163.169630557249
+	Objective 2 (total cost): 405.39441722920344
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.3946540462595713 | 0.3000244349554667 | 0.16259624372610956 | 0.17360287752746198 | 0.30011715570092334 | 
+	---
+	Solution #73
+	Objective 1 (fundamental frequency): 48.35394975032895
+	Objective 2 (total cost): 1212.3497538663732
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.981061401357543 | 0.30016621133516885 | 0.10351939777576374 | 0.2871320375010093 | 0.30021257913878735 | 
+	---
+	Solution #74
+	Objective 1 (fundamental frequency): 55.112567681804734
+	Objective 2 (total cost): 783.886209664076
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999833903692965 | 0.30045310718273416 | 0.1762106959650469 | 0.21899854167291935 | 0.300419408106098 | 
+	---
+	Solution #75
+	Objective 1 (fundamental frequency): 127.04730864984656
+	Objective 2 (total cost): 456.2203881559815
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.87439651471849 | 0.3000168858626682 | 0.1708817674362596 | 0.18159727169365297 | 0.30000877326556263 | 
+	---
+	Solution #76
+	Objective 1 (fundamental frequency): 53.37889405688583
+	Objective 2 (total cost): 984.780617522421
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.989682417949625 | 0.30000499913207773 | 0.1355364861216406 | 0.2422006333306768 | 0.3000160681396163 | 
+	---
+	Solution #77
+	Objective 1 (fundamental frequency): 86.93325502497343
+	Objective 2 (total cost): 540.8196145134325
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.811692133402703 | 0.3000098352926255 | 0.2020403468179164 | 0.21327922113228032 | 0.3000837918619901 | 
+	---
+	Solution #78
+	Objective 1 (fundamental frequency): 84.91386331566426
+	Objective 2 (total cost): 556.9118530306756
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.740986511239009 | 0.30009064518367595 | 0.17153193033834196 | 0.18161337373331035 | 0.3001532568765823 | 
+	---
+	Solution #79
+	Objective 1 (fundamental frequency): 126.70918975303252
+	Objective 2 (total cost): 456.66134555278126
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.8798848816637688 | 0.30014875956775766 | 0.17107016703616684 | 0.18159920171734037 | 0.30002461754858867 | 
+	---
+	Solution #80
+	Objective 1 (fundamental frequency): 52.84996073612229
+	Objective 2 (total cost): 1018.7874105366959
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.996830731722865 | 0.3001512359273107 | 0.1298895274433545 | 0.2469046322664682 | 0.30007460144141984 | 
+	---
+	Solution #81
+	Objective 1 (fundamental frequency): 47.036942169181415
+	Objective 2 (total cost): 1273.4985527691338
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.99910671692149 | 0.30006732214001547 | 0.0855652502536551 | 0.28445411250819264 | 0.3002128322655558 | 
+	---
+	Solution #82
+	Objective 1 (fundamental frequency): 140.30096426418388
+	Objective 2 (total cost): 436.3843437402827
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.658299929644561 | 0.30012755753836096 | 0.16214313849272158 | 0.17244726387557696 | 0.30019466201975253 | 
+	---
+	Solution #83
+	Objective 1 (fundamental frequency): 52.46898879258108
+	Objective 2 (total cost): 1061.2220592437052
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.97855324647965 | 0.3000011410893829 | 0.13575916878094194 | 0.27357065014693366 | 0.3001249582619349 | 
+	---
+	Solution #84
+	Objective 1 (fundamental frequency): 85.7282558626438
+	Objective 2 (total cost): 555.0067582461418
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.719113109315197 | 0.30009064518367595 | 0.17153193033834196 | 0.18202261063951258 | 0.3000883610667996 | 
+	---
+	Solution #85
+	Objective 1 (fundamental frequency): 87.82819608586895
+	Objective 2 (total cost): 537.8691011968618
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.7867719272613565 | 0.3000100061605299 | 0.2020403468179164 | 0.21327922113228032 | 0.3000185691104085 | 
+	---
+	Solution #86
+	Objective 1 (fundamental frequency): 104.81696030036476
+	Objective 2 (total cost): 505.2388301475656
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.23435258976687 | 0.3001219990065578 | 0.16252122788226878 | 0.1731343254886189 | 0.3001392580723947 | 
+	---
+	Solution #87
+	Objective 1 (fundamental frequency): 91.4538870258156
+	Objective 2 (total cost): 526.684339285409
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.691998715701515 | 0.3000060661079268 | 0.20236171402760714 | 0.21340917503495774 | 0.30007187524651757 | 
+	---
+	Solution #88
+	Objective 1 (fundamental frequency): 48.02027911975749
+	Objective 2 (total cost): 1212.9908430920873
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999888352545901 | 0.30000760432504336 | 0.10419832040393193 | 0.2873285239782246 | 0.3000099796467938 | 
+	---
+	Solution #89
+	Objective 1 (fundamental frequency): 44.530999563279664
+	Objective 2 (total cost): 1399.492501814577
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.982387599773842 | 0.30007928818636065 | 0.04933762224687831 | 0.28445411250819264 | 0.3000114148377794 | 
+	---
+	Solution #90
+	Objective 1 (fundamental frequency): 52.34142266710236
+	Objective 2 (total cost): 1065.3312634296733
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.979027500612189 | 0.3000011410893829 | 0.13454412442418814 | 0.27357065014693366 | 0.3000086267405436 | 
+	---
+	Solution #91
+	Objective 1 (fundamental frequency): 52.03878410005386
+	Objective 2 (total cost): 1086.2259154782807
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.982174130334809 | 0.30007800127463036 | 0.1192316300314299 | 0.2594386366418823 | 0.300218054836941 | 
+	---
+	Solution #92
+	Objective 1 (fundamental frequency): 135.57827716488637
+	Objective 2 (total cost): 444.041966819502
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.722842158661848 | 0.3000631265799696 | 0.16250653408632695 | 0.17313423066359857 | 0.30007800474162366 | 
+	---
+	Solution #93
+	Objective 1 (fundamental frequency): 74.62950598991814
+	Objective 2 (total cost): 580.5720046131821
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.195322459706372 | 0.3000109688155459 | 0.20318606541853396 | 0.21340917503495774 | 0.300051424355281 | 
+	---
+	Solution #94
+	Objective 1 (fundamental frequency): 146.9028109189156
+	Objective 2 (total cost): 423.9087021886054
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.603426972671811 | 0.30015250847733727 | 0.17113149221564175 | 0.18148034287394235 | 0.3000787684272524 | 
+	---
+	Solution #95
+	Objective 1 (fundamental frequency): 122.61760676812864
+	Objective 2 (total cost): 466.7685566321124
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.9465863070987055 | 0.3001200311002889 | 0.17096571570500535 | 0.1828386116655546 | 0.3000237056841314 | 
+	---
+	Solution #96
+	Objective 1 (fundamental frequency): 156.36715190632242
+	Objective 2 (total cost): 415.3221529320344
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.427965219606957 | 0.30001128674785105 | 0.1505045440539075 | 0.1605811769508799 | 0.30002317476159407 | 
+	---
+	Solution #97
+	Objective 1 (fundamental frequency): 51.75013417877395
+	Objective 2 (total cost): 1089.2510576693262
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.998834501900229 | 0.30007800127463036 | 0.1192316300314299 | 0.2594386366418823 | 0.300218054836941 | 
+	---
+	Solution #98
+	Objective 1 (fundamental frequency): 45.791773106585026
+	Objective 2 (total cost): 1311.3379471563228
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.985385738218543 | 0.30009135989848196 | 0.07772876584363392 | 0.28963843521288957 | 0.3000257939873389 | 
+	---
+	Solution #99
+	Objective 1 (fundamental frequency): 110.93267859548698
+	Objective 2 (total cost): 491.55174955097635
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.145196050864014 | 0.3001197497716461 | 0.16964270842336648 | 0.18148169607052267 | 0.30020723219971024 | 
+ 
+RUN #1
+	---
+	Solution #0
+	Objective 1 (fundamental frequency): 45.047938642548374
+	Objective 2 (total cost): 1405.7092273841504
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.990638702777194 | 0.3060712313129398 | 0.059212307105735995 | 0.28766123906904023 | 0.3014710473689329 | 
+	---
+	Solution #1
+	Objective 1 (fundamental frequency): 201.57354996679146
+	Objective 2 (total cost): 372.46551105014856
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.030725200366142 | 0.30051548616790946 | 0.15128131928614258 | 0.16352660542699995 | 0.3016110525525229 | 
+	---
+	Solution #2
+	Objective 1 (fundamental frequency): 55.2424547519833
+	Objective 2 (total cost): 853.1774670563168
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.98743950177491 | 0.3005241694488198 | 0.16640275611218233 | 0.23330752340113217 | 0.30020521261577365 | 
+	---
+	Solution #3
+	Objective 1 (fundamental frequency): 55.95017715769221
+	Objective 2 (total cost): 689.2850759923491
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.998591431308748 | 0.3036814028168154 | 0.2009556276258919 | 0.21447126569906025 | 0.3000214320256068 | 
+	---
+	Solution #4
+	Objective 1 (fundamental frequency): 153.51196888346675
+	Objective 2 (total cost): 421.67530655265386
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.4849561234362225 | 0.30223634241427816 | 0.15790123051973695 | 0.16820297936040252 | 0.30041441850186085 | 
+	---
+	Solution #5
+	Objective 1 (fundamental frequency): 53.09670079163445
+	Objective 2 (total cost): 1058.889671087495
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.988184704051728 | 0.3001155480701298 | 0.14570321643414322 | 0.28205740307506966 | 0.30358243113815403 | 
+	---
+	Solution #6
+	Objective 1 (fundamental frequency): 93.58090220505946
+	Objective 2 (total cost): 534.0724018975378
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.687947212933552 | 0.3001114534489555 | 0.2084275312085647 | 0.22038069890279363 | 0.3049560277697679 | 
+	---
+	Solution #7
+	Objective 1 (fundamental frequency): 110.44547730630617
+	Objective 2 (total cost): 531.4883651044796
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.4159911674990395 | 0.300456971950161 | 0.21686923542540368 | 0.23012462130886036 | 0.32008655181085405 | 
+	---
+	Solution #8
+	Objective 1 (fundamental frequency): 53.879612006172366
+	Objective 2 (total cost): 943.1667203302181
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.99499458222513 | 0.3029141348085477 | 0.1451307272815743 | 0.23529851039774322 | 0.30013590957162395 | 
+	---
+	Solution #9
+	Objective 1 (fundamental frequency): 183.83338226539004
+	Objective 2 (total cost): 386.514749725027
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.1934935679693486 | 0.30058943464339777 | 0.15910974366326916 | 0.17050701313398448 | 0.3013489881082509 | 
+	---
+	Solution #10
+	Objective 1 (fundamental frequency): 164.53057014793444
+	Objective 2 (total cost): 417.9332950513434
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.3838021317657807 | 0.304394728633939 | 0.15911301474548184 | 0.17017927884780878 | 0.30358186061475745 | 
+	---
+	Solution #11
+	Objective 1 (fundamental frequency): 143.91680893004772
+	Objective 2 (total cost): 434.738609263441
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.607909366735438 | 0.3001263468598297 | 0.15915546394578817 | 0.1696865133544708 | 0.30139626253099 | 
+	---
+	Solution #12
+	Objective 1 (fundamental frequency): 193.49942322850268
+	Objective 2 (total cost): 383.410215755759
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.125907616479847 | 0.30042927311140116 | 0.15911301474548184 | 0.17019077463789273 | 0.3051418131546671 | 
+	---
+	Solution #13
+	Objective 1 (fundamental frequency): 178.12427877925717
+	Objective 2 (total cost): 388.5886517664229
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.239553919859663 | 0.3000683956225833 | 0.15921540687776298 | 0.16949112008729597 | 0.3005560763001185 | 
+	---
+	Solution #14
+	Objective 1 (fundamental frequency): 92.69637553110235
+	Objective 2 (total cost): 538.4881146493426
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.687947212933552 | 0.30016360856364743 | 0.20346783713468733 | 0.2171808575547327 | 0.303476329187726 | 
+	---
+	Solution #15
+	Objective 1 (fundamental frequency): 47.040603945276246
+	Objective 2 (total cost): 1264.959538902051
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.9921443714579565 | 0.3006093726367315 | 0.09038605168747052 | 0.28766823219381354 | 0.30017921328128505 | 
+	---
+	Solution #16
+	Objective 1 (fundamental frequency): 46.621676528159625
+	Objective 2 (total cost): 1311.8029406512997
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.983813002750257 | 0.3006232451578037 | 0.07827879732232376 | 0.2878976367804571 | 0.3017104890851944 | 
+	---
+	Solution #17
+	Objective 1 (fundamental frequency): 86.41065096614952
+	Objective 2 (total cost): 551.5186075566296
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.88682223142024 | 0.3000485464758621 | 0.21153394387524804 | 0.22282548681991624 | 0.30452861303528383 | 
+	---
+	Solution #18
+	Objective 1 (fundamental frequency): 45.6615866372297
+	Objective 2 (total cost): 1362.8423097053148
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.992100853344602 | 0.30041649111755103 | 0.06276321246121247 | 0.2856170927120488 | 0.3017150953721896 | 
+	---
+	Solution #19
+	Objective 1 (fundamental frequency): 172.22478329070614
+	Objective 2 (total cost): 400.6424830605195
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.2974053104828376 | 0.30230877548248136 | 0.158856224849491 | 0.16965619951127717 | 0.30131780606062464 | 
+	---
+	Solution #20
+	Objective 1 (fundamental frequency): 51.274942563719186
+	Objective 2 (total cost): 1087.9284528566488
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.998313384209352 | 0.3001155480701298 | 0.13509477230890485 | 0.2817612490903442 | 0.30004104436769996 | 
+	---
+	Solution #21
+	Objective 1 (fundamental frequency): 50.794593585181616
+	Objective 2 (total cost): 1129.3465568717215
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.979074258162104 | 0.30017762485524635 | 0.12075114868384841 | 0.2789156094546569 | 0.3001615510657545 | 
+	---
+	Solution #22
+	Objective 1 (fundamental frequency): 75.84782169451918
+	Objective 2 (total cost): 577.7609281034731
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.171695304386634 | 0.3004255727517056 | 0.20660762186265974 | 0.2172847711599106 | 0.30054725099481605 | 
+	---
+	Solution #23
+	Objective 1 (fundamental frequency): 115.99422164805964
+	Objective 2 (total cost): 524.2803761069027
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.005077668576467 | 0.30290448458985597 | 0.1451307272815743 | 0.17043038515657866 | 0.3023883082909655 | 
+	---
+	Solution #24
+	Objective 1 (fundamental frequency): 197.07253796553803
+	Objective 2 (total cost): 373.70473971205126
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.0543761680213173 | 0.30063739047365573 | 0.14953482945357466 | 0.16113220088034916 | 0.30028451770326486 | 
+	---
+	Solution #25
+	Objective 1 (fundamental frequency): 64.54104759900667
+	Objective 2 (total cost): 648.8819554435413
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.663097324645768 | 0.30063487087242485 | 0.21081921835274223 | 0.22414506002542053 | 0.3056028976302924 | 
+	---
+	Solution #26
+	Objective 1 (fundamental frequency): 166.34560423540486
+	Objective 2 (total cost): 403.61722492472705
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.353194373673504 | 0.3005986736442762 | 0.15921540687776298 | 0.16997757049543816 | 0.3005560763001185 | 
+	---
+	Solution #27
+	Objective 1 (fundamental frequency): 51.89742643770447
+	Objective 2 (total cost): 1081.5105700804208
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.960424494794695 | 0.30012569296880254 | 0.13509477230890485 | 0.28196555146253455 | 0.30000817180668876 | 
+	---
+	Solution #28
+	Objective 1 (fundamental frequency): 78.4716591186737
+	Objective 2 (total cost): 573.1207425707295
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.107470203340105 | 0.30166525910229036 | 0.21102044659705582 | 0.22351363823464296 | 0.30068616073392695 | 
+	---
+	Solution #29
+	Objective 1 (fundamental frequency): 73.16136223401352
+	Objective 2 (total cost): 587.4240432310091
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.286317754025887 | 0.3003726948651534 | 0.21063913319751468 | 0.22064983862374463 | 0.30144638033374005 | 
+	---
+	Solution #30
+	Objective 1 (fundamental frequency): 127.66042114381352
+	Objective 2 (total cost): 478.90701370388723
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.8468745257451706 | 0.3007100759787894 | 0.1565610019578846 | 0.17019105533994378 | 0.30553101360423623 | 
+	---
+	Solution #31
+	Objective 1 (fundamental frequency): 140.51669672202024
+	Objective 2 (total cost): 447.17378947483246
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.631701676453432 | 0.30018635039790553 | 0.15128131928614258 | 0.16441062740086204 | 0.30160529400668573 | 
+	---
+	Solution #32
+	Objective 1 (fundamental frequency): 137.18737447901438
+	Objective 2 (total cost): 452.44006714045565
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.7087554521095987 | 0.3001259848116765 | 0.15915546394578817 | 0.1696865133544708 | 0.30451282810641683 | 
+	---
+	Solution #33
+	Objective 1 (fundamental frequency): 174.7056553686457
+	Objective 2 (total cost): 394.6393057075037
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.2745972878493723 | 0.3001746204228727 | 0.15915546394578817 | 0.1696865133544708 | 0.30139626253099 | 
+	---
+	Solution #34
+	Objective 1 (fundamental frequency): 54.285436545058516
+	Objective 2 (total cost): 910.4785501917287
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.99499458222513 | 0.30037695786735163 | 0.152097774156947 | 0.23553913841771743 | 0.30003074246990613 | 
+	---
+	Solution #35
+	Objective 1 (fundamental frequency): 54.71634752572024
+	Objective 2 (total cost): 890.4881875678201
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.99499458222513 | 0.30258184408208016 | 0.15935387046820176 | 0.23536642349404557 | 0.3000616692848617 | 
+	---
+	Solution #36
+	Objective 1 (fundamental frequency): 53.88763637861419
+	Objective 2 (total cost): 941.7443903352129
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.99499458222513 | 0.30258184408208016 | 0.14539162253121324 | 0.23560340208260663 | 0.3000616692848617 | 
+	---
+	Solution #37
+	Objective 1 (fundamental frequency): 111.67525319996409
+	Objective 2 (total cost): 524.3735057093561
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.3977055871828785 | 0.3001360785316294 | 0.21906397780886283 | 0.23012462130886036 | 0.32077074745653933 | 
+	---
+	Solution #38
+	Objective 1 (fundamental frequency): 69.03291544984654
+	Objective 2 (total cost): 604.5985073891763
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.473438670906276 | 0.30007137321101357 | 0.21747453033379455 | 0.22972725837031832 | 0.30090301627293925 | 
+	---
+	Solution #39
+	Objective 1 (fundamental frequency): 124.20175226289464
+	Objective 2 (total cost): 479.03231290895184
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.8956373008532026 | 0.30230877548248136 | 0.158856224849491 | 0.17018856368027357 | 0.30387870801499073 | 
+	---
+	Solution #40
+	Objective 1 (fundamental frequency): 194.75296742990028
+	Objective 2 (total cost): 375.32094153234
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.072511629765294 | 0.30015540705007226 | 0.14953482945357466 | 0.16113220088034916 | 0.30028451770326486 | 
+	---
+	Solution #41
+	Objective 1 (fundamental frequency): 71.65728667048118
+	Objective 2 (total cost): 594.4518169710295
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.328672060112705 | 0.30011553256523754 | 0.20841651034368808 | 0.22034154028202427 | 0.30004318670771063 | 
+	---
+	Solution #42
+	Objective 1 (fundamental frequency): 49.656758099617335
+	Objective 2 (total cost): 1160.7675273406726
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.980955737836965 | 0.30013270783293045 | 0.11600734669678657 | 0.2847180179229385 | 0.30002977252931257 | 
+	---
+	Solution #43
+	Objective 1 (fundamental frequency): 48.782389371653196
+	Objective 2 (total cost): 1199.2208987531435
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.992197318824551 | 0.3003936411905276 | 0.10911735308169597 | 0.28766823219381354 | 0.30107897629436353 | 
+	---
+	Solution #44
+	Objective 1 (fundamental frequency): 48.714336503510225
+	Objective 2 (total cost): 1216.283518364353
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.980955737836965 | 0.3000902621757273 | 0.1012358650875177 | 0.2847180179229385 | 0.30095453273420514 | 
+	---
+	Solution #45
+	Objective 1 (fundamental frequency): 49.48106354383261
+	Objective 2 (total cost): 1185.106781204966
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.9606989272179876 | 0.30004414230401605 | 0.10759868694168238 | 0.28388727366313055 | 0.3002446063262213 | 
+	---
+	Solution #46
+	Objective 1 (fundamental frequency): 64.6628762499779
+	Objective 2 (total cost): 625.7375476979365
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.601147083155228 | 0.3004255727517056 | 0.20660762186265974 | 0.2172847711599106 | 0.30054725099481605 | 
+	---
+	Solution #47
+	Objective 1 (fundamental frequency): 80.7239217674154
+	Objective 2 (total cost): 569.5155599452394
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.025197251771077 | 0.3000551329746572 | 0.20664565697471454 | 0.22062979167887925 | 0.3013209142484967 | 
+	---
+	Solution #48
+	Objective 1 (fundamental frequency): 56.468855183904964
+	Objective 2 (total cost): 674.5143587203501
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.990872114406836 | 0.3004255727517056 | 0.20515238495332333 | 0.2172847711599106 | 0.30054725099481605 | 
+	---
+	Solution #49
+	Objective 1 (fundamental frequency): 61.66702406407111
+	Objective 2 (total cost): 651.8540908907156
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.818253621332698 | 0.3010416193382881 | 0.21961884069996387 | 0.23296728447930723 | 0.30327798698368297 | 
+	---
+	Solution #50
+	Objective 1 (fundamental frequency): 135.9023847655331
+	Objective 2 (total cost): 454.40480570095343
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.726247787948854 | 0.30001427696607724 | 0.15915546394578817 | 0.1696865133544708 | 0.30451282810641683 | 
+	---
+	Solution #51
+	Objective 1 (fundamental frequency): 47.5599854877234
+	Objective 2 (total cost): 1253.7404425009363
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.980838524658191 | 0.30059015794924304 | 0.09127298024075313 | 0.28561248903991493 | 0.30004411550171045 | 
+	---
+	Solution #52
+	Objective 1 (fundamental frequency): 47.58420772032168
+	Objective 2 (total cost): 1242.0618417069268
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.980955737836965 | 0.3000966305431003 | 0.09822307182252692 | 0.2906625169015691 | 0.30095453273420514 | 
+	---
+	Solution #53
+	Objective 1 (fundamental frequency): 128.335052658632
+	Objective 2 (total cost): 467.85559824683776
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.834534269791184 | 0.3001718381922156 | 0.15915546394578817 | 0.1696865133544708 | 0.30451282810641683 | 
+	---
+	Solution #54
+	Objective 1 (fundamental frequency): 133.61775567065968
+	Objective 2 (total cost): 455.566753339522
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.7441972328673123 | 0.30230877548248136 | 0.158856224849491 | 0.17018856368027357 | 0.30120427183111687 | 
+	---
+	Solution #55
+	Objective 1 (fundamental frequency): 123.01525046410973
+	Objective 2 (total cost): 481.62085736294773
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.9038113235214134 | 0.3026268689939938 | 0.15686837084184907 | 0.16975749941206364 | 0.30234153593730667 | 
+	---
+	Solution #56
+	Objective 1 (fundamental frequency): 55.027502666009845
+	Objective 2 (total cost): 871.8916566187238
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.986095796839456 | 0.30017772385438596 | 0.16095326591514972 | 0.23274520413079844 | 0.30080321968104945 | 
+	---
+	Solution #57
+	Objective 1 (fundamental frequency): 67.16141193020486
+	Objective 2 (total cost): 612.7167162122915
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.5476049615574485 | 0.3003726948651534 | 0.21747453033379455 | 0.22972725837031832 | 0.3006443754789981 | 
+	---
+	Solution #58
+	Objective 1 (fundamental frequency): 131.51594003296307
+	Objective 2 (total cost): 462.6130925238942
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.7886626220547037 | 0.30001427696607724 | 0.15915546394578817 | 0.17006166490871677 | 0.30451282810641683 | 
+	---
+	Solution #59
+	Objective 1 (fundamental frequency): 59.69019824399013
+	Objective 2 (total cost): 655.6113827241508
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.87896945063541 | 0.3003726948651534 | 0.21480918054672332 | 0.2275440012420361 | 0.3014515385646685 | 
+	---
+	Solution #60
+	Objective 1 (fundamental frequency): 66.63476919954891
+	Objective 2 (total cost): 619.1229474712827
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.571229833457904 | 0.30185007230942196 | 0.21747453033379455 | 0.22972725837031832 | 0.30093072072821836 | 
+	---
+	Solution #61
+	Objective 1 (fundamental frequency): 119.56759094880233
+	Objective 2 (total cost): 515.3172019636883
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.220656824502388 | 0.3004150395274655 | 0.2083718893209767 | 0.220467930506473 | 0.3215666684872397 | 
+	---
+	Solution #62
+	Objective 1 (fundamental frequency): 50.23118872129449
+	Objective 2 (total cost): 1134.0178397669054
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.992197318824551 | 0.3003840304271741 | 0.12797460059353497 | 0.28856594481110553 | 0.30123791021643276 | 
+	---
+	Solution #63
+	Objective 1 (fundamental frequency): 54.36851847349716
+	Objective 2 (total cost): 907.5955951903671
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.98743950177491 | 0.3005241694488198 | 0.15128131928614258 | 0.23330752340113217 | 0.30020521261577365 | 
+	---
+	Solution #64
+	Objective 1 (fundamental frequency): 84.21319291164171
+	Objective 2 (total cost): 561.4079014749776
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.951579412907722 | 0.3000551329746572 | 0.21103969711420684 | 0.22293419572920636 | 0.3048962180454811 | 
+	---
+	Solution #65
+	Objective 1 (fundamental frequency): 173.5421721658924
+	Objective 2 (total cost): 395.9433266098702
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.2856724587926056 | 0.3001984747576081 | 0.15921128037188687 | 0.16972716982645777 | 0.3013910618049355 | 
+	---
+	Solution #66
+	Objective 1 (fundamental frequency): 46.36060828866547
+	Objective 2 (total cost): 1324.4569384840797
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.983925200130816 | 0.3006232451578037 | 0.06935245249167904 | 0.2819630878101471 | 0.300133161575941 | 
+	---
+	Solution #67
+	Objective 1 (fundamental frequency): 121.82434550123507
+	Objective 2 (total cost): 503.69830792509913
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.9431676673238956 | 0.300013002785022 | 0.15182171810640266 | 0.16749111043857806 | 0.3093348723466519 | 
+	---
+	Solution #68
+	Objective 1 (fundamental frequency): 117.83368049689953
+	Objective 2 (total cost): 516.4930795043416
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.242726221910272 | 0.300111675434888 | 0.20652294313719544 | 0.2172680891584121 | 0.3215666684872397 | 
+	---
+	Solution #69
+	Objective 1 (fundamental frequency): 133.03206714138136
+	Objective 2 (total cost): 460.5364240391494
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.7338081716738536 | 0.30051548616790946 | 0.1514601245452212 | 0.1647339857243893 | 0.30170522866896965 | 
+	---
+	Solution #70
+	Objective 1 (fundamental frequency): 54.90891616133982
+	Objective 2 (total cost): 875.7372753586135
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.986095796839456 | 0.30017772385438596 | 0.15920560447529164 | 0.2317706810976213 | 0.30080894394380253 | 
+	---
+	Solution #71
+	Objective 1 (fundamental frequency): 58.71090351385665
+	Objective 2 (total cost): 661.3611808737852
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.976475309109213 | 0.3001114534489555 | 0.22318979368464198 | 0.23562707843526312 | 0.3032711393646032 | 
+	---
+	Solution #72
+	Objective 1 (fundamental frequency): 47.89645337146219
+	Objective 2 (total cost): 1230.1609964333281
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.980955737836965 | 0.3000902621757273 | 0.1012358650875177 | 0.29024082690664954 | 0.30095453273420514 | 
+	---
+	Solution #73
+	Objective 1 (fundamental frequency): 68.92132358296985
+	Objective 2 (total cost): 609.8723369727777
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.480246130936104 | 0.30179194433713913 | 0.21747453033379455 | 0.22972725837031832 | 0.3013001365516447 | 
+	---
+	Solution #74
+	Objective 1 (fundamental frequency): 81.75702354074156
+	Objective 2 (total cost): 565.2835890733145
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.017229065284522 | 0.3000551329746572 | 0.21103969711420684 | 0.22299435029947626 | 0.303362442504947 | 
+	---
+	Solution #75
+	Objective 1 (fundamental frequency): 82.60032249937926
+	Objective 2 (total cost): 561.7848193538518
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.991538803050505 | 0.3000054901843514 | 0.2111506223454095 | 0.22290895810833436 | 0.303362442504947 | 
+	---
+	Solution #76
+	Objective 1 (fundamental frequency): 122.44265630115858
+	Objective 2 (total cost): 492.30816725539967
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.9475426750233202 | 0.3007100759787894 | 0.15911762041453276 | 0.17041749179486235 | 0.3089860453237512 | 
+	---
+	Solution #77
+	Objective 1 (fundamental frequency): 65.08784356483832
+	Objective 2 (total cost): 622.79148808283
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.604594736027435 | 0.3003726948651534 | 0.21063913319751468 | 0.22064983862374463 | 0.30144638033374005 | 
+	---
+	Solution #78
+	Objective 1 (fundamental frequency): 46.099348298794006
+	Objective 2 (total cost): 1335.4571756759085
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.95203098222781 | 0.300589988364079 | 0.06674770695261632 | 0.28564762973464486 | 0.30001298085604705 | 
+	---
+	Solution #79
+	Objective 1 (fundamental frequency): 56.82272346490159
+	Objective 2 (total cost): 666.7241226269566
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.997480345387794 | 0.3004563195000543 | 0.21089356916842256 | 0.22190479878011632 | 0.30069721047443204 | 
+	---
+	Solution #80
+	Objective 1 (fundamental frequency): 48.00839678012152
+	Objective 2 (total cost): 1224.3717207365385
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.980955737836965 | 0.30063673847546907 | 0.10180486055420412 | 0.2886295508904569 | 0.3002846871565166 | 
+	---
+	Solution #81
+	Objective 1 (fundamental frequency): 165.31119794053652
+	Objective 2 (total cost): 409.33541194397236
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.373611607877229 | 0.30001268173776274 | 0.15915553639144744 | 0.16967003288253105 | 0.30325262429547617 | 
+	---
+	Solution #82
+	Objective 1 (fundamental frequency): 49.07372101156581
+	Objective 2 (total cost): 1187.1122462561723
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.975572926693208 | 0.30062887924329235 | 0.1113504982148904 | 0.28766823219381354 | 0.30048935790655884 | 
+	---
+	Solution #83
+	Objective 1 (fundamental frequency): 140.9930970849247
+	Objective 2 (total cost): 439.2902780896286
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.6454315239621975 | 0.30006729321079034 | 0.15911091848324707 | 0.16950111213951347 | 0.30156955874575064 | 
+	---
+	Solution #84
+	Objective 1 (fundamental frequency): 57.58072052696072
+	Objective 2 (total cost): 662.3041879465446
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.957981627043043 | 0.30045752884405946 | 0.21094786157265175 | 0.22203012058818253 | 0.3006443754789981 | 
+	---
+	Solution #85
+	Objective 1 (fundamental frequency): 85.5129773444527
+	Objective 2 (total cost): 558.623635049171
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.903912003515387 | 0.3000485464758621 | 0.2083667105010805 | 0.22031421064120812 | 0.30496563617974465 | 
+	---
+	Solution #86
+	Objective 1 (fundamental frequency): 45.93014601108129
+	Objective 2 (total cost): 1349.1568962235926
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.992154953985754 | 0.30062277933045256 | 0.06674770695261632 | 0.2856170927120488 | 0.30161850565140924 | 
+	---
+	Solution #87
+	Objective 1 (fundamental frequency): 72.28776292017672
+	Objective 2 (total cost): 593.1668619335649
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.307199236908216 | 0.3001118022531657 | 0.20826745277130831 | 0.22010672437927478 | 0.3005009764939943 | 
+	---
+	Solution #88
+	Objective 1 (fundamental frequency): 142.9566672593397
+	Objective 2 (total cost): 436.66911214322914
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.6207607577414915 | 0.3001746204228727 | 0.15915546394578817 | 0.1696874239319001 | 0.30157475947180507 | 
+	---
+	Solution #89
+	Objective 1 (fundamental frequency): 60.9283462509417
+	Objective 2 (total cost): 651.976965963547
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.824594220255343 | 0.3043920819965605 | 0.21747453033379455 | 0.22972725837031832 | 0.30066526586644715 | 
+	---
+	Solution #90
+	Objective 1 (fundamental frequency): 50.163590506807886
+	Objective 2 (total cost): 1148.040830915513
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.997069275870765 | 0.30004421410491416 | 0.12075114868384841 | 0.28399712046293357 | 0.30120277965734327 | 
+	---
+	Solution #91
+	Objective 1 (fundamental frequency): 129.75838704183957
+	Objective 2 (total cost): 463.20156750802954
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.764649976845333 | 0.300007101610513 | 0.14752793877641898 | 0.15808389724096317 | 0.3024132445619507 | 
+	---
+	Solution #92
+	Objective 1 (fundamental frequency): 141.88910784809542
+	Objective 2 (total cost): 438.3087610778292
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.6343563530189638 | 0.3001746204228727 | 0.15915546394578817 | 0.1696874239319001 | 0.30157475947180507 | 
+	---
+	Solution #93
+	Objective 1 (fundamental frequency): 122.28990942978942
+	Objective 2 (total cost): 496.7554359269743
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.9475426750233202 | 0.3007100759787894 | 0.15724647909256634 | 0.17042045992658733 | 0.3089860453237512 | 
+	---
+	Solution #94
+	Objective 1 (fundamental frequency): 45.914417315555646
+	Objective 2 (total cost): 1351.419352574642
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.992100853344602 | 0.30062277933045256 | 0.06618992773764404 | 0.2856170927120488 | 0.3017104890851944 | 
+	---
+	Solution #95
+	Objective 1 (fundamental frequency): 120.9378576552097
+	Objective 2 (total cost): 512.3948346009779
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.196677976406118 | 0.3004181516060298 | 0.2083718893209767 | 0.220467930506473 | 0.3215666684872397 | 
+	---
+	Solution #96
+	Objective 1 (fundamental frequency): 111.50626807304116
+	Objective 2 (total cost): 528.6133347156401
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.398649159896385 | 0.30009811792341523 | 0.21742401954520502 | 0.23005107248099083 | 0.32077074745653933 | 
+	---
+	Solution #97
+	Objective 1 (fundamental frequency): 120.95069560268078
+	Objective 2 (total cost): 509.06298131258404
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.9121844147414917 | 0.30012614618558864 | 0.1436452621381731 | 0.1720134381020182 | 0.30001929443184655 | 
+	---
+	Solution #98
+	Objective 1 (fundamental frequency): 129.36739378418784
+	Objective 2 (total cost): 464.5671624024675
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.764649976845333 | 0.30069759517990086 | 0.14659727154930155 | 0.15808389724096317 | 0.3014152643513837 | 
+	---
+	Solution #99
+	Objective 1 (fundamental frequency): 49.7192971393163
+	Objective 2 (total cost): 1154.3904703607577
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.997069275870765 | 0.3003595487978324 | 0.11867278891409389 | 0.2842017092572658 | 0.30021034508882 | 
+ 
+RUN #2
+	---
+	Solution #0
+	Objective 1 (fundamental frequency): 204.88599733477744
+	Objective 2 (total cost): 363.6585274448367
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.0003249756486565 | 0.3004406123828556 | 0.152289792606231 | 0.1628544878748254 | 0.300007529992357 | 
+	---
+	Solution #1
+	Objective 1 (fundamental frequency): 43.01533942180564
+	Objective 2 (total cost): 1438.8942822740523
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999573904468251 | 0.30000809161014624 | 0.04348521906138538 | 0.290036482414147 | 0.30021267890900893 | 
+	---
+	Solution #2
+	Objective 1 (fundamental frequency): 55.10359068597793
+	Objective 2 (total cost): 818.272609520775
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.9986247414083245 | 0.3000444748493646 | 0.1712097906609969 | 0.22633313078723152 | 0.3001161968955776 | 
+	---
+	Solution #3
+	Objective 1 (fundamental frequency): 55.1940359982001
+	Objective 2 (total cost): 734.6673399590177
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.99989089770956 | 0.3008371593970377 | 0.18530480339316446 | 0.21256947134047077 | 0.3000203052789241 | 
+	---
+	Solution #4
+	Objective 1 (fundamental frequency): 198.55736978829074
+	Objective 2 (total cost): 369.03841881114647
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.047762980647864 | 0.3000898443004865 | 0.15221074012917818 | 0.16265631523730661 | 0.30012406758357724 | 
+	---
+	Solution #5
+	Objective 1 (fundamental frequency): 55.31635899237624
+	Objective 2 (total cost): 697.3274404591816
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.99989089770956 | 0.3013035079484805 | 0.19319144944730277 | 0.20864164596726828 | 0.30001233953882545 | 
+	---
+	Solution #6
+	Objective 1 (fundamental frequency): 53.71684842953051
+	Objective 2 (total cost): 956.3569687042051
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.99909827501343 | 0.3005273574399805 | 0.14276554895137453 | 0.23961018143189888 | 0.3003335401789873 | 
+	---
+	Solution #7
+	Objective 1 (fundamental frequency): 44.084908155369284
+	Objective 2 (total cost): 1387.303470160358
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999180968613604 | 0.30041216774214574 | 0.058097396041010205 | 0.28984812480407435 | 0.30011200376248953 | 
+	---
+	Solution #8
+	Objective 1 (fundamental frequency): 78.09245067898186
+	Objective 2 (total cost): 581.7556478604506
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.977344064920618 | 0.3004169278641646 | 0.17832053132573952 | 0.1892122360186746 | 0.3005035563221356 | 
+	---
+	Solution #9
+	Objective 1 (fundamental frequency): 146.71322153084452
+	Objective 2 (total cost): 425.80128627865093
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.5931166565815342 | 0.3000273674176084 | 0.16696185155949653 | 0.17776731012983923 | 0.3000182331902507 | 
+	---
+	Solution #10
+	Objective 1 (fundamental frequency): 125.62358002959192
+	Objective 2 (total cost): 456.1408248209693
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.922148539449085 | 0.30000929253992387 | 0.17850622091652363 | 0.18896491741010968 | 0.3000699527932181 | 
+	---
+	Solution #11
+	Objective 1 (fundamental frequency): 54.64499174863728
+	Objective 2 (total cost): 850.0580754843971
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.997923698554051 | 0.30148912836624725 | 0.16288066979848814 | 0.2255270866594225 | 0.3000674983755394 | 
+	---
+	Solution #12
+	Objective 1 (fundamental frequency): 160.11398899526688
+	Objective 2 (total cost): 407.9332582408499
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.4382823758323275 | 0.3000471086826155 | 0.1664112546431335 | 0.17707521680550298 | 0.30021046630368425 | 
+	---
+	Solution #13
+	Objective 1 (fundamental frequency): 94.70079812311447
+	Objective 2 (total cost): 524.3982533862314
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.544489882517276 | 0.30000763591136703 | 0.1850684849726824 | 0.1962357914672816 | 0.30002338853035976 | 
+	---
+	Solution #14
+	Objective 1 (fundamental frequency): 175.41371070801233
+	Objective 2 (total cost): 394.1187578259165
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.2451558236613067 | 0.3019907608787183 | 0.15342354509230588 | 0.16356647151122947 | 0.3000082024693344 | 
+	---
+	Solution #15
+	Objective 1 (fundamental frequency): 48.5060997564139
+	Objective 2 (total cost): 1205.5488331474758
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.990991733013004 | 0.30037266349917313 | 0.10507291559610446 | 0.28563995450491825 | 0.3001088235970334 | 
+	---
+	Solution #16
+	Objective 1 (fundamental frequency): 56.677011203219394
+	Objective 2 (total cost): 671.3929047784759
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999131037799129 | 0.300847348825443 | 0.20951799130311533 | 0.22198949321303246 | 0.30015629204801253 | 
+	---
+	Solution #17
+	Objective 1 (fundamental frequency): 46.82524375367099
+	Objective 2 (total cost): 1278.0399509819745
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.991464882008868 | 0.3009091015164701 | 0.08626503856549797 | 0.28671794680269586 | 0.30000652689724266 | 
+	---
+	Solution #18
+	Objective 1 (fundamental frequency): 105.07014620466488
+	Objective 2 (total cost): 503.4840933004944
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.246176442068162 | 0.3000562845196977 | 0.16696185155949653 | 0.17790738054087618 | 0.300015188585427 | 
+	---
+	Solution #19
+	Objective 1 (fundamental frequency): 107.77428317785396
+	Objective 2 (total cost): 496.6605761745349
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.191776844468471 | 0.30005254722135266 | 0.16680296163430597 | 0.17724678677718453 | 0.3002122395356239 | 
+	---
+	Solution #20
+	Objective 1 (fundamental frequency): 186.55304807782608
+	Objective 2 (total cost): 381.5948055714959
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.14501431016496 | 0.300180375203099 | 0.15204977550491064 | 0.16265631523730661 | 0.30036365502528056 | 
+	---
+	Solution #21
+	Objective 1 (fundamental frequency): 113.46798849060097
+	Objective 2 (total cost): 482.40687887639956
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.127162339677197 | 0.30053336635035377 | 0.1780283982593658 | 0.18896489416604473 | 0.3002712342816307 | 
+	---
+	Solution #22
+	Objective 1 (fundamental frequency): 111.00321743557197
+	Objective 2 (total cost): 488.6396658984081
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.140398097117499 | 0.30002776305809525 | 0.16951569091041777 | 0.18007134047445625 | 0.3001793483030258 | 
+	---
+	Solution #23
+	Objective 1 (fundamental frequency): 45.275844949371475
+	Objective 2 (total cost): 1336.4143892579539
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999180968613604 | 0.3000099814350361 | 0.07049674272072823 | 0.2881745861695238 | 0.30004885046197766 | 
+	---
+	Solution #24
+	Objective 1 (fundamental frequency): 91.11339426553849
+	Objective 2 (total cost): 537.9857615610614
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.610575426080085 | 0.30009282634425727 | 0.17903631976882478 | 0.19036414769999313 | 0.3002456723002809 | 
+	---
+	Solution #25
+	Objective 1 (fundamental frequency): 44.80728047320519
+	Objective 2 (total cost): 1350.9987474531893
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999184849677813 | 0.3001767587206321 | 0.06792334749190951 | 0.2899205085402897 | 0.30010800148704364 | 
+	---
+	Solution #26
+	Objective 1 (fundamental frequency): 178.8114613181398
+	Objective 2 (total cost): 386.97427802235967
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.226211320350232 | 0.30005617128288326 | 0.15753673579805577 | 0.16771945611905775 | 0.3000091401131514 | 
+	---
+	Solution #27
+	Objective 1 (fundamental frequency): 54.46464649326495
+	Objective 2 (total cost): 880.8973797744501
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999667325209952 | 0.3000065155771172 | 0.1575508232058532 | 0.23170905031656935 | 0.3000705724964604 | 
+	---
+	Solution #28
+	Objective 1 (fundamental frequency): 203.8270710133573
+	Objective 2 (total cost): 364.5042010947976
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.007467750967981 | 0.30019368951666986 | 0.15193731272283645 | 0.16243125168781167 | 0.300130762504752 | 
+	---
+	Solution #29
+	Objective 1 (fundamental frequency): 97.07473459198319
+	Objective 2 (total cost): 519.2753619909781
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.464823820814342 | 0.30041150669020017 | 0.17932958939115762 | 0.18984198348275036 | 0.30001764369657674 | 
+	---
+	Solution #30
+	Objective 1 (fundamental frequency): 89.90402648910091
+	Objective 2 (total cost): 542.0405517400189
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.64139482830616 | 0.3004171147934826 | 0.17903631976882478 | 0.19026542776738084 | 0.30027529433251443 | 
+	---
+	Solution #31
+	Objective 1 (fundamental frequency): 192.65041966640783
+	Objective 2 (total cost): 374.54703957494695
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.1079177429400477 | 0.3001893274976684 | 0.15686168676629753 | 0.1679699048076153 | 0.3000155516303244 | 
+	---
+	Solution #32
+	Objective 1 (fundamental frequency): 53.962223262669546
+	Objective 2 (total cost): 915.503650318038
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.99909827501343 | 0.300000556296524 | 0.14833015050464135 | 0.23220562689154964 | 0.3001631680248144 | 
+	---
+	Solution #33
+	Objective 1 (fundamental frequency): 47.200921850227346
+	Objective 2 (total cost): 1260.7616069266012
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.991464882008868 | 0.3009091015164701 | 0.09105689480103693 | 0.28671794680269586 | 0.30000652689724266 | 
+	---
+	Solution #34
+	Objective 1 (fundamental frequency): 53.30296555404734
+	Objective 2 (total cost): 979.7375766406819
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.99909827501343 | 0.3005257565093188 | 0.13617481255658614 | 0.23947379628599824 | 0.3003215050299138 | 
+	---
+	Solution #35
+	Objective 1 (fundamental frequency): 151.7068069814313
+	Objective 2 (total cost): 418.50205183894474
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.5328834645226626 | 0.300045002675501 | 0.16680296163430597 | 0.17724905223728768 | 0.3001634731147491 | 
+	---
+	Solution #36
+	Objective 1 (fundamental frequency): 189.29003294911615
+	Objective 2 (total cost): 377.8559028889403
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.121010072781642 | 0.3001140774363566 | 0.1521642024613112 | 0.16265631523730661 | 0.30001107423235684 | 
+	---
+	Solution #37
+	Objective 1 (fundamental frequency): 81.24930312168533
+	Objective 2 (total cost): 573.8931620742674
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.874029650600329 | 0.30118253778052445 | 0.17684589271775553 | 0.18900415232793097 | 0.3000179127555937 | 
+	---
+	Solution #38
+	Objective 1 (fundamental frequency): 101.63477746036772
+	Objective 2 (total cost): 510.2360561359678
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.332005345814668 | 0.3005268801304561 | 0.17107184900450262 | 0.18133120727922938 | 0.30012580121101284 | 
+	---
+	Solution #39
+	Objective 1 (fundamental frequency): 44.390086672820566
+	Objective 2 (total cost): 1379.8452942950448
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.981939293545454 | 0.30019050882673337 | 0.0587793180862529 | 0.28984812480407435 | 0.30011155271271084 | 
+	---
+	Solution #40
+	Objective 1 (fundamental frequency): 167.00692126815824
+	Objective 2 (total cost): 399.64662576200703
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.3683148363030186 | 0.30018166076620656 | 0.16696582598266252 | 0.1778461012235326 | 0.30012742458686226 | 
+	---
+	Solution #41
+	Objective 1 (fundamental frequency): 155.90751929968326
+	Objective 2 (total cost): 411.93509842745317
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.4895574827561635 | 0.3002735169554376 | 0.16861441217232923 | 0.178778939605692 | 0.30004564818291396 | 
+	---
+	Solution #42
+	Objective 1 (fundamental frequency): 62.91658161867578
+	Objective 2 (total cost): 623.4436854076598
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.739740485930775 | 0.30011091997589057 | 0.2212569731318657 | 0.2317250881062974 | 0.30001728131788313 | 
+	---
+	Solution #43
+	Objective 1 (fundamental frequency): 100.42683292520849
+	Objective 2 (total cost): 515.1147992714141
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.342145723096172 | 0.30054070372029906 | 0.16678621265198945 | 0.17707521680550298 | 0.30024604215510353 | 
+	---
+	Solution #44
+	Objective 1 (fundamental frequency): 51.67302680303075
+	Objective 2 (total cost): 1091.8555986307738
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.965891545973468 | 0.30002815352446854 | 0.13128052378746002 | 0.280378614796518 | 0.30001761727758236 | 
+	---
+	Solution #45
+	Objective 1 (fundamental frequency): 86.26713529898407
+	Objective 2 (total cost): 552.8943698688201
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.738310929189149 | 0.30009487250896977 | 0.17903631976882478 | 0.19036414769999313 | 0.3002456723002809 | 
+	---
+	Solution #46
+	Objective 1 (fundamental frequency): 50.10757470561093
+	Objective 2 (total cost): 1132.0674159636076
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.998631056715623 | 0.3000952613708905 | 0.12462255455126481 | 0.28434192204344966 | 0.3000228732216387 | 
+	---
+	Solution #47
+	Objective 1 (fundamental frequency): 52.53997610780157
+	Objective 2 (total cost): 1030.184641346786
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.9993731310707705 | 0.3000879740030083 | 0.12560154238291682 | 0.24525139256743406 | 0.3000424605820719 | 
+	---
+	Solution #48
+	Objective 1 (fundamental frequency): 121.3845761261704
+	Objective 2 (total cost): 466.09780062225025
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.964206556990237 | 0.30002158391726785 | 0.17107184900450262 | 0.18114753023706462 | 0.300269282919523 | 
+	---
+	Solution #49
+	Objective 1 (fundamental frequency): 55.27592875726837
+	Objective 2 (total cost): 734.457823095551
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.997148827639167 | 0.30023098503084533 | 0.18531998313707526 | 0.21323733014641397 | 0.30001233953882545 | 
+	---
+	Solution #50
+	Objective 1 (fundamental frequency): 49.44195151836729
+	Objective 2 (total cost): 1158.4584464269929
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.997978294297722 | 0.3000123122044308 | 0.11780875968504112 | 0.28526878188519555 | 0.30001235006608956 | 
+	---
+	Solution #51
+	Objective 1 (fundamental frequency): 171.595652467201
+	Objective 2 (total cost): 395.52644134288425
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.3236241468153302 | 0.30090310831552347 | 0.16696185155949653 | 0.1777719032220819 | 0.3003339661427604 | 
+	---
+	Solution #52
+	Objective 1 (fundamental frequency): 47.736937274865575
+	Objective 2 (total cost): 1228.09389287001
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.9928807938322155 | 0.30046501887045074 | 0.10127421296000472 | 0.28874051489791547 | 0.30021212990179097 | 
+	---
+	Solution #53
+	Objective 1 (fundamental frequency): 52.1937641378148
+	Objective 2 (total cost): 1063.8307600706844
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999133694263259 | 0.30000068777390565 | 0.12394283547956134 | 0.25623431670541463 | 0.300161692036514 | 
+	---
+	Solution #54
+	Objective 1 (fundamental frequency): 143.90346093604109
+	Objective 2 (total cost): 429.14055497450437
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.6327025463223794 | 0.30037517261718016 | 0.16863669723255656 | 0.17878912489459522 | 0.3001575524522544 | 
+	---
+	Solution #55
+	Objective 1 (fundamental frequency): 47.607373217156876
+	Objective 2 (total cost): 1236.8525813423773
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.988798214955938 | 0.30208466846452225 | 0.10114506095447555 | 0.28979205443678635 | 0.3001600313914877 | 
+	---
+	Solution #56
+	Objective 1 (fundamental frequency): 83.20055060727684
+	Objective 2 (total cost): 563.0007525560401
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.788261253646937 | 0.30002156789917456 | 0.17107184900450262 | 0.18114753023706462 | 0.30027513846998133 | 
+	---
+	Solution #57
+	Objective 1 (fundamental frequency): 74.78544775929534
+	Objective 2 (total cost): 594.32881863252
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.118034804348887 | 0.30034555221493225 | 0.18508290254044213 | 0.19758016852389587 | 0.3001185143917093 | 
+	---
+	Solution #58
+	Objective 1 (fundamental frequency): 45.811195202012435
+	Objective 2 (total cost): 1305.936931982567
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.998627324999323 | 0.30000809161014624 | 0.080174304009418 | 0.28977110695180025 | 0.30021001581395873 | 
+	---
+	Solution #59
+	Objective 1 (fundamental frequency): 129.19932571256442
+	Objective 2 (total cost): 455.99523682356363
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.828339429957508 | 0.3009049039363653 | 0.16653004729062207 | 0.1777706161182199 | 0.30001379762500596 | 
+	---
+	Solution #60
+	Objective 1 (fundamental frequency): 116.94330334052565
+	Objective 2 (total cost): 475.9811912962471
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.0227809832009545 | 0.30003516666660457 | 0.16678621265198945 | 0.17707521680550298 | 0.30001603430169516 | 
+	---
+	Solution #61
+	Objective 1 (fundamental frequency): 55.001265720464815
+	Objective 2 (total cost): 825.2876588323037
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.997923698554051 | 0.30132186960863816 | 0.16960316601960085 | 0.2255270866594225 | 0.30006763136780834 | 
+	---
+	Solution #62
+	Objective 1 (fundamental frequency): 170.46872783922637
+	Objective 2 (total cost): 398.75431519579206
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.340276339650413 | 0.30018166076620656 | 0.16696582598266252 | 0.17751127231109584 | 0.3019378336645205 | 
+	---
+	Solution #63
+	Objective 1 (fundamental frequency): 57.685410239819355
+	Objective 2 (total cost): 657.8828782042029
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.936848394732543 | 0.30000220054858545 | 0.20878666646077837 | 0.21911235573825008 | 0.3001197616944672 | 
+	---
+	Solution #64
+	Objective 1 (fundamental frequency): 61.291823647741715
+	Objective 2 (total cost): 643.9585703284928
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.805939718292856 | 0.300004728224101 | 0.21695100994429176 | 0.23102323555252266 | 0.30011011061395104 | 
+	---
+	Solution #65
+	Objective 1 (fundamental frequency): 71.31164787159842
+	Objective 2 (total cost): 602.9457402524797
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.23464906396101 | 0.30043856978980366 | 0.18508290254044213 | 0.1953634907127246 | 0.3000261198350865 | 
+	---
+	Solution #66
+	Objective 1 (fundamental frequency): 45.79174171676409
+	Objective 2 (total cost): 1306.8415417559258
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.998627324999323 | 0.3000112028472953 | 0.07992621282107704 | 0.28977110695180025 | 0.3002093591768382 | 
+	---
+	Solution #67
+	Objective 1 (fundamental frequency): 50.76581020311641
+	Objective 2 (total cost): 1109.0207309066584
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.996132771263453 | 0.3012492739631624 | 0.13233922976559917 | 0.2846102709648448 | 0.30011711533525715 | 
+	---
+	Solution #68
+	Objective 1 (fundamental frequency): 54.22989353121264
+	Objective 2 (total cost): 895.1441193875784
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999667325209952 | 0.30010735359330154 | 0.15362348555683544 | 0.23170905031656935 | 0.30000391285795974 | 
+	---
+	Solution #69
+	Objective 1 (fundamental frequency): 52.90827898977986
+	Objective 2 (total cost): 1008.9063240480366
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.998791195943001 | 0.30000809161014624 | 0.1304196493298031 | 0.24364445507791693 | 0.3002115001629203 | 
+	---
+	Solution #70
+	Objective 1 (fundamental frequency): 132.15641436086887
+	Objective 2 (total cost): 448.7048873539338
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.7844096635861506 | 0.30091017674130716 | 0.16695695860387627 | 0.17707521680550298 | 0.3000221447353863 | 
+	---
+	Solution #71
+	Objective 1 (fundamental frequency): 74.75777784312828
+	Objective 2 (total cost): 595.5698031342392
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.118034804348887 | 0.30124575906889717 | 0.18508290254044213 | 0.19745145071725992 | 0.30001209463257317 | 
+	---
+	Solution #72
+	Objective 1 (fundamental frequency): 134.09170232388797
+	Objective 2 (total cost): 444.8367891193321
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.762267068881248 | 0.3003778586013844 | 0.1683493988109173 | 0.17878912489459522 | 0.3000121642976212 | 
+	---
+	Solution #73
+	Objective 1 (fundamental frequency): 182.3486124565998
+	Objective 2 (total cost): 383.98416602801785
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.19566479318539 | 0.30005617128288326 | 0.15753673579805577 | 0.16822141985273992 | 0.3000091401131514 | 
+	---
+	Solution #74
+	Objective 1 (fundamental frequency): 61.49881242878241
+	Objective 2 (total cost): 634.7267961919508
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.790261047502208 | 0.3001023468036247 | 0.21724786914566666 | 0.22816491802340966 | 0.3002120656110224 | 
+	---
+	Solution #75
+	Objective 1 (fundamental frequency): 135.71512913463772
+	Objective 2 (total cost): 440.81662646156195
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.7490981142993824 | 0.30002158391726785 | 0.17107184900450262 | 0.18114753023706462 | 0.30027513846998133 | 
+	---
+	Solution #76
+	Objective 1 (fundamental frequency): 52.02753201478029
+	Objective 2 (total cost): 1072.0380651647001
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999374996923856 | 0.3000879740030083 | 0.13038356175152624 | 0.2686880839799252 | 0.3000424605820719 | 
+	---
+	Solution #77
+	Objective 1 (fundamental frequency): 49.73252673636656
+	Objective 2 (total cost): 1141.130269213603
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.999133694263259 | 0.30000068777390565 | 0.12394283547956134 | 0.2869130843041585 | 0.300161692036514 | 
+	---
+	Solution #78
+	Objective 1 (fundamental frequency): 138.01130047108632
+	Objective 2 (total cost): 439.67160295425657
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.742463412518205 | 0.30210679475202795 | 0.17808472594162458 | 0.18896489416604473 | 0.30030868819163015 | 
+	---
+	Solution #79
+	Objective 1 (fundamental frequency): 86.20818333388154
+	Objective 2 (total cost): 556.5645434773685
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.773912349116856 | 0.30008181731157246 | 0.1858168110337264 | 0.19996663850219204 | 0.3001185143917093 | 
+	---
+	Solution #80
+	Objective 1 (fundamental frequency): 163.53677028989782
+	Objective 2 (total cost): 404.12824945031457
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.4038676898010185 | 0.30036662105857065 | 0.16696185155949653 | 0.17785053489528255 | 0.30012742458686226 | 
+	---
+	Solution #81
+	Objective 1 (fundamental frequency): 154.80510183224044
+	Objective 2 (total cost): 413.4329850138052
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.5064738332148644 | 0.30044433167919093 | 0.16995627473714484 | 0.18007134047445625 | 0.3001563611105009 | 
+	---
+	Solution #82
+	Objective 1 (fundamental frequency): 68.78092849820406
+	Objective 2 (total cost): 611.0569635648064
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.483511599084648 | 0.30008047037289254 | 0.21627804449144358 | 0.23004657113820054 | 0.3011515023485083 | 
+	---
+	Solution #83
+	Objective 1 (fundamental frequency): 48.92320438829713
+	Objective 2 (total cost): 1180.5452351520794
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.997142526799936 | 0.3013317088372164 | 0.11429128094176445 | 0.28702592196940857 | 0.30001084003333445 | 
+	---
+	Solution #84
+	Objective 1 (fundamental frequency): 139.60960673948694
+	Objective 2 (total cost): 435.9494511530396
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.6881907267827856 | 0.3005441174131152 | 0.1686406746592114 | 0.17878912489459522 | 0.3001675303838494 | 
+	---
+	Solution #85
+	Objective 1 (fundamental frequency): 68.37046308439496
+	Objective 2 (total cost): 615.9688773740123
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.50192295665663 | 0.30051465205963 | 0.21627804449144358 | 0.23089898377630802 | 0.3011515023485083 | 
+	---
+	Solution #86
+	Objective 1 (fundamental frequency): 130.14730421303608
+	Objective 2 (total cost): 450.878985410852
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.8164793510322452 | 0.30009337015315884 | 0.16777317800212574 | 0.1779942942358206 | 0.3000199491412808 | 
+	---
+	Solution #87
+	Objective 1 (fundamental frequency): 152.41232257047577
+	Objective 2 (total cost): 417.54280547745236
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.524697133331724 | 0.30005254722135266 | 0.16680296163430597 | 0.17724905223728768 | 0.3001634731147491 | 
+	---
+	Solution #88
+	Objective 1 (fundamental frequency): 192.62288589096622
+	Objective 2 (total cost): 376.655332908739
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.093862889896009 | 0.30000690374735467 | 0.1512372575370187 | 0.1628469837654638 | 0.30018032450840304 | 
+	---
+	Solution #89
+	Objective 1 (fundamental frequency): 181.51140305700005
+	Objective 2 (total cost): 385.84438472545787
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.2018162255403593 | 0.3001891514035623 | 0.15686168676629753 | 0.1679699048076153 | 0.3000035261120933 | 
+	---
+	Solution #90
+	Objective 1 (fundamental frequency): 49.052862020949284
+	Objective 2 (total cost): 1174.155760395292
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.989211391112863 | 0.30009768365098133 | 0.11429128094176445 | 0.28702592196940857 | 0.30001084003333445 | 
+	---
+	Solution #91
+	Objective 1 (fundamental frequency): 71.25898870909994
+	Objective 2 (total cost): 606.3908210803
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.23464906396101 | 0.30043856978980366 | 0.1839876200052795 | 0.1953634907127246 | 0.3000261198350865 | 
+	---
+	Solution #92
+	Objective 1 (fundamental frequency): 164.7649947761051
+	Objective 2 (total cost): 401.789358495747
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.390562524727611 | 0.3000253212528959 | 0.16696185155949653 | 0.17776731012983923 | 0.3000148130134653 | 
+	---
+	Solution #93
+	Objective 1 (fundamental frequency): 66.18257213016136
+	Objective 2 (total cost): 621.071109661965
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.586337524561384 | 0.30008575846158664 | 0.21627804449144358 | 0.23019942703296242 | 0.3004751909713936 | 
+	---
+	Solution #94
+	Objective 1 (fundamental frequency): 65.66079624826735
+	Objective 2 (total cost): 622.071468807901
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.605821709935557 | 0.30008575846158664 | 0.21627804449144358 | 0.23019942703296242 | 0.30004204863063355 | 
+	---
+	Solution #95
+	Objective 1 (fundamental frequency): 82.2276267765042
+	Objective 2 (total cost): 566.1482000758658
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 4.881024935737015 | 0.30008181731157246 | 0.18513761312979946 | 0.19758016852389587 | 0.3001185143917093 | 
+	---
+	Solution #96
+	Objective 1 (fundamental frequency): 52.579864422276955
+	Objective 2 (total cost): 1027.5353825734126
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.9993731310707705 | 0.3000879740030083 | 0.12630533557165108 | 0.24525139256743406 | 0.30000249413318675 | 
+	---
+	Solution #97
+	Objective 1 (fundamental frequency): 58.48377018739734
+	Objective 2 (total cost): 648.8480440074142
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.936848394732543 | 0.3000571327319914 | 0.21748418925717355 | 0.22782045243043225 | 0.30015995500905124 | 
+	---
+	Solution #98
+	Objective 1 (fundamental frequency): 51.03510755536691
+	Objective 2 (total cost): 1104.5865189485419
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 5.996125623741643 | 0.3012492739631624 | 0.13233922976559917 | 0.28269647806441706 | 0.3002578788089992 | 
+	---
+	Solution #99
+	Objective 1 (fundamental frequency): 120.28578738475494
+	Objective 2 (total cost): 470.3591117470461
+	Variables labels: L | b | d1 | d2 | d3
+	Variables: 3.967034552442238 | 0.30075193696589436 | 0.16695695860387627 | 0.17724701798699913 | 0.3000019139229612 | 

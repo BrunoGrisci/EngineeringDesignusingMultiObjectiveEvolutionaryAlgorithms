@@ -1,32 +1,16 @@
 import java.util.List;
 import java.awt.GraphicsEnvironment;
-import java.awt.RenderingHints;
 import java.awt.image.RenderedImage;
 import java.io.File;
 import java.io.IOException;
-
-//import jmetal.qualityIndicator.Hypervolume;
-
-
-
-
 import java.io.PrintWriter;
 import java.util.ArrayList;
-
 import javax.imageio.ImageIO;
-
-import org.jfree.chart.ChartPanel;
-import org.jfree.chart.JFreeChart;
-import org.jfree.chart.axis.NumberAxis;
-import org.jfree.chart.plot.FastScatterPlot;
 import org.jfree.ui.RefineryUtilities;
 import org.moeaframework.Analyzer;
 import org.moeaframework.Executor;
-import org.moeaframework.Instrumenter;
-import org.moeaframework.analysis.collector.Accumulator;
 import org.moeaframework.core.NondominatedPopulation;
 import org.moeaframework.core.Solution;
-import org.moeaframework.core.indicator.Hypervolume;
 
 public class PinnedPinnedSandwichBeamSolver {
 	
@@ -132,25 +116,17 @@ public class PinnedPinnedSandwichBeamSolver {
 				i++;
 			}
 			
-			plotParetoFront plotChart = new plotParetoFront("Pareto solutions", data);
+			plotParetoFront plotChart = new plotParetoFront("Pareto solutions for run #" + String.valueOf(r), "Objective 1", "Objective 2", data,
+															ALGORITHM, PROBLEM, r);
 			plotChart.pack();
 			RefineryUtilities.centerFrameOnScreen(plotChart);
 			plotChart.setVisible(true);
 			plotChart.setEnabled(true);
 			
-			if (!GraphicsEnvironment.isHeadless() && plotChart.isDisplayable()) {
-				File plotFile = new File(dirName + ALGORITHM + " " + PROBLEM + "_" + String.valueOf(r) + ".png");
-				ImageIO.write((RenderedImage) plotChart.createImage(plotChart.getWidth(), plotChart.getHeight()), "png", plotFile);
-			}
-			else {
-				System.out.println("Failed to save plot.");
-			}
-			
 			r++;
 		}
 		
 		writer.close();
-		
 	}
 
 }
