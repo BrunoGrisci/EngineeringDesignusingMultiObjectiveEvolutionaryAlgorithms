@@ -16,7 +16,7 @@ public class PinnedPinnedSandwichBeamSolver {
 	final static String[] ALGORITHMS = {"NSGAII", "GDE3"};
 	//final static String ALGORITHM = "GDE3";
 	final static int MAX_EVALUATIONS = 10000;
-	final static int NUMBER_RUNS = 3;
+	final static int NUMBER_RUNS = 30;
 	final static String OBJECTIVE1 = "Fundamental Frequency";
 	final static String OBJECTIVE2 = "Total cost";
 
@@ -24,6 +24,7 @@ public class PinnedPinnedSandwichBeamSolver {
 		// TODO Auto-generated method stub
 		
 		for (String ALGORITHM : ALGORITHMS) {
+			
 			//This creates the directory for the output files
 			String dirName = "Output/";
 			new File(dirName).mkdirs();
