@@ -85,4 +85,3 @@ public class PinnedPinnedSandwichBeam extends AbstractProblem {
 	}
 
 }
-
