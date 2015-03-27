@@ -24,46 +24,10 @@ public class PinnedPinnedSandwichBeamSolver {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		/*NondominatedPopulation result = new Executor()
-		.withProblem(PROBLEM)
-		.withAlgorithm(ALGORITHM)
-		.withMaxEvaluations(MAX_EVALUATIONS)	
-		.distributeOnAllCores()
-		.run();
-
-		//display the results
-		int COUNT = result.size();
-		float [][] data = new float[2][COUNT];
-		double [][] ddata = new double[2][COUNT];
-		int i = 0;		
-		System.out.format("Objective1  Objective2%n");
-		for (Solution solution : result) {
-			System.out.format("%.4f      %.4f%n",
-					solution.getObjective(0),
-					solution.getObjective(1));
-			data[0][i] = (float) solution.getObjective(0);
-			data[1][i] = (float) solution.getObjective(1);
-			ddata[0][i] = (double) solution.getObjective(0);
-			ddata[1][i] = (double) solution.getObjective(1);
-			i++;
-		}
 		
-		plotParetoFront plotChart = new plotParetoFront("Pareto solutions", data);
-		plotChart.pack();
-		RefineryUtilities.centerFrameOnScreen(plotChart);
-		plotChart.setVisible(true);
-		
-		Hypervolume hv = new Hypervolume(new PinnedPinnedSandwichBeam(), analyzer.getReferenceSet());
-		//double hvi = hv.evaluate(result);	
-		//System.out.println(hvi);*/
-		
+		//This creates the directory for the output files
 		String dirName = "Output/";
 		new File(dirName).mkdirs();
-		
-		Analyzer analyzer = new Analyzer()
-		.withProblemClass(PROBLEM_CLASS)
-		.includeAllMetrics()
-		.showStatisticalSignificance();
 		
 		Executor executor = new Executor()
 		.withProblemClass(PROBLEM_CLASS)
@@ -72,10 +36,14 @@ public class PinnedPinnedSandwichBeamSolver {
 		List<NondominatedPopulation> results = new ArrayList<NondominatedPopulation>();
 		results = executor.withAlgorithm(ALGORITHM).runSeeds(NUMBER_RUNS);
 		
-		File analyzerFile = new File(dirName + "Analyzer_" + "ALGORITHM" + ".txt");
+		Analyzer analyzer = new Analyzer()
+		.withProblemClass(PROBLEM_CLASS)
+		.includeAllMetrics()
+		.showStatisticalSignificance();
+		
+		File analyzerFile = new File(dirName + "Analyzer_" + ALGORITHM + ".txt");
 		
 		analyzer.addAll(ALGORITHM, results);
-		//analyzer.printAnalysis();
 		analyzer.showIndividualValues().printAnalysis();
 		analyzer.showIndividualValues().saveAnalysis(analyzerFile);
 		
@@ -92,12 +60,7 @@ public class PinnedPinnedSandwichBeamSolver {
 			writer.println("RUN #" + String.valueOf(r));
 			
 			int i = 0;		
-			//System.out.format("Objective1  Objective2%n");
 			for (Solution solution : result) {
-				/*System.out.format("%.4f      %.4f%n",
-						solution.getObjective(0),
-						solution.getObjective(1));*/
-				
 				writer.println("	---");
 				writer.println("	Solution #" + String.valueOf(i));
 				writer.println("	Objective 1 (fundamental frequency): " + String.valueOf(solution.getObjective(0)));
@@ -116,8 +79,9 @@ public class PinnedPinnedSandwichBeamSolver {
 				i++;
 			}
 			
-			plotParetoFront plotChart = new plotParetoFront("Pareto solutions for run #" + String.valueOf(r), "Objective 1", "Objective 2", data,
-															ALGORITHM, PROBLEM, r);
+			plotParetoFront plotChart = new plotParetoFront("Pareto solutions for run #" + String.valueOf(r), 
+															"Objective 1 (fundamental frequency)", "Objective 2 (total cost)", 
+															data, ALGORITHM, PROBLEM, r);
 			plotChart.pack();
 			RefineryUtilities.centerFrameOnScreen(plotChart);
 			plotChart.setVisible(true);
